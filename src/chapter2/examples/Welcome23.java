@@ -2,7 +2,7 @@ package chapter2.examples;
 
 /*
 Printing multiple lines of text
-@author ostakhovsky
+Fig. 2.3, 2.4
 */
 
 public class Welcome23 {

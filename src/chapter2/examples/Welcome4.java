@@ -2,7 +2,7 @@ package chapter2.examples;
 
 /*
 Application Displaying multiple lines of text with method printf
-@author ostakhovsky
+Fig. 2.6
  */
 
 public class Welcome4 {

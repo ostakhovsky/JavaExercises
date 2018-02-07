@@ -2,7 +2,7 @@ package chapter2.examples;
 
 /*
 Application prints a single line of text
-@author ostakhovsky
+Fig. 2.1
  */
 
 public class Welcome1 {
