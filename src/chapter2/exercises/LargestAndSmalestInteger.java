@@ -3,7 +3,6 @@ package chapter2.exercises;
 import java.util.Scanner;
 /*
 Application reads 5 integers and determines minimum and maximum
-@author ostakhovsky
  */
 
 public class LargestAndSmalestInteger {
@@ -24,6 +23,6 @@ public class LargestAndSmalestInteger {
         min = current;
       }
     }
-    System.out.printf("Minimum value is %d, maximum value is %d",min,max);
+    System.out.printf("Minimum value is %d, maximum value is %d", min, max);
   }
 }

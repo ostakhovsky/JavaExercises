@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
 Application reads an integer and determines if it's odd or even
-@author ostakhovsky
  */
 
 public class OddOrEven {
