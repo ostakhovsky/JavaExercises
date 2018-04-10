@@ -7,7 +7,7 @@ Use four System.out.print statements.
 Use one System.out.printf statement.
  */
 
-public class PrintTest {
+public class PrintTest_2_14 {
 
   public static void main(String[] args) {
     System.out.println("1 2 3 4");
