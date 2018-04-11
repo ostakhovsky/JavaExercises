@@ -3,11 +3,12 @@ package chapter3.exercises;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class GradeBookTest {
 
   @Test
   public void testSetCourseName() throws Exception {
-    GradeBook gradeBook = new GradeBook("python","John");
+    GradeBook gradeBook = new GradeBook("python", "John");
     gradeBook.setCourseName("java");
     Assert.assertEquals(gradeBook.getCourseName(), "java");
   }

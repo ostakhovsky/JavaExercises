@@ -32,5 +32,4 @@ public class GradeBook {
     System.out.printf("Welcome to the grade book for\n%s!\n", getCourseName());
     System.out.printf("This course is presented by\n%s!\n", getIntsructorName());
   }
-
 }

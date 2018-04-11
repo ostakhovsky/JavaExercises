@@ -36,14 +36,15 @@ public class Account {
     }
   }
 
-  public void withdraw(double amount){
-    if (amount > balance){
+  public void withdraw(double amount) {
+    if (amount > balance) {
       System.out.println("Withdrawal amount exceeded account balance.");
-    } else{
+    } else {
       balance -= amount;
     }
   }
-  public static  void displayAccount(Account account){
+
+  public static void displayAccount(Account account) {
     System.out.println("Name: " + account.name + " balance: " + account.balance);
   }
 }
